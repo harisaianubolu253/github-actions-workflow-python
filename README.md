@@ -1,4 +1,4 @@
-# GitHub Actions Lab 1.5: Pull Request CI for JavaScript and Python
+# GitHub Actions Lab 1.1: Pull Request CI for JavaScript and Python
 
 ## Lab Objective
 
