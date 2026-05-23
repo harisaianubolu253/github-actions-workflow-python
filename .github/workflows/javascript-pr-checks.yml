@@ -1,9 +1,9 @@
 name: JavaScript PR Checks
 
 on:
-  pull_request:
+  push: :
     branches:
-      - main
+      - master
 
 jobs:
   javascript-checks:
